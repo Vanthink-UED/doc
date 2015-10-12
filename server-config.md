@@ -74,6 +74,6 @@ server {
 
 #### 参考
 
-[apache]: http://www.uow.edu.au/~nabg/WebServer/Chapter3/WindowsConf.html
+1. [apache]: http://www.uow.edu.au/~nabg/WebServer/Chapter3/WindowsConf.html
 
-[nginx]: https://www.nginx.com/resources/wiki/start/topics/examples/full/
+2. [nginx]: https://www.nginx.com/resources/wiki/start/topics/examples/full/
