@@ -8,7 +8,7 @@
 |   + trunk
 |   + tags
 |       + release_0.1
-|   -branches
+|   + branches
 
 ```
 
