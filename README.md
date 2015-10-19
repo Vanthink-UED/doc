@@ -4,4 +4,5 @@
 
  1. [目录参考]: https://github.com/Vanthink-UED/doc/blob/master/directory.doc.md
  2. [域名设置]: https://github.com/Vanthink-UED/doc/blob/master/server-config.md
+ 3. [游戏接口]: https://github.com/Vanthink-UED/doc/blob/master/game.be.interface.md
  
