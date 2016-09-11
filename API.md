@@ -55,7 +55,7 @@ JSON 字符串要放在一行中，不允许出现换行符。（特殊字符都
   "errcode":0,
   "errstr":"",
   "data":{
-    totalCount: 10000,
+    count: 10000,
     page:'',
     list:[
         {....},
