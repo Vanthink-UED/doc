@@ -49,8 +49,8 @@ JSON 字符串要放在一行中，不允许出现换行符。（特殊字符都
 ### 常见功能型接口数据格式参考
 
 ```js
-// 分页   
-// ../api/paginarion?param1=xxx&param2=xxx&p=12
+
+// ../api/paginarion?param1=xxx&param2=xxx&p=12  pageno 第几页 pagesize 每页多少条数据
 { 
   "errcode":0,
   "errstr":"",
