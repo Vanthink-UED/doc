@@ -3,14 +3,17 @@
 1. 你觉得web前端主要是负责那些方面的工作？
 
 
-2. 定一个函数，实现类似下面的功能
+2. 实现类似下面的功能
 
 ``` javascript
 
-log('hello','world')
-控制台输出 'hello wolrd';
-log('I','am','Jack');
-控制台输出 'I am Jack';
+log('test', 'hello','world')
+某 id="test" div  显示 'hello wolrd';
+log('test', 'I','am','Jack');
+某 id="test" div  显示 'I am Jack';
+
+log('test', 'I','am','Jack').color('red');
+某 id="test" div  显示红色的 'I am Jack';
 ```
 
 3.描述你对JS中的`闭包`理解，以及写一段JS代码,来阐述你对闭包的理解。
@@ -28,5 +31,22 @@ log('I','am','Jack');
 要求:(1)页面当前只显示一个按钮，点击按钮实现一个弹窗的显示；(2)弹窗（高：200px;宽：200px;右上角有个关闭按钮，水平垂直居中在正上方，后面有遮罩）；
 （3）点击关闭按钮或者遮罩，弹窗消失。
 
+9. 编写一段代码实现 为下面列表 li 元素添加 'active' class;
 
-9.你为什么选择前端工作？从事前端的工作中有让你感觉 `amazing`的事情是什么？
+10. 实现一段函数，可以将 一些 key value 安全的挂在全局上?
+
+``` bash
+fn('test' , 123)
+
+// in browser
+
+window.test // 123
+
+// in node
+
+global.test // 123
+```
+
+11.你为什么选择前端工作？从事前端的工作中有让你感觉 `amazing`的事情是什么？
+
+
